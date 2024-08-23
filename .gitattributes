@@ -1,4 +1,6 @@
 *.python linguist-detectable=true
+*.py linguist-language=Python
+
 *.java linguist-detectable=false
 
 *.js linguist-detectable=false
